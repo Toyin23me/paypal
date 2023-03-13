@@ -1,5 +1,4 @@
-landmark
-simon 
+landmark 
 dominion
 Ayo
 Obi
